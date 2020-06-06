@@ -1,10 +1,4 @@
-# Machine Learning Deployment using AWS SageMaker (Udacity Machine Learning Engineer Nanodegree)
-
-Code and associated files 
-
-This repository contains code and associated files for deploying simple LSTM model using AWS SageMaker to predict the Sentiment of the movie review. 
-
-## Table Of Contents
+# Machine Learning Deployment using AWS SageMaker
 
 ## Setup Instructions
 
